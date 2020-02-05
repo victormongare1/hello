@@ -1,0 +1,19 @@
+h1 {
+  color: whitesmoke;
+  font-style: italic;
+  font-size: 80px;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font
+}
+h2  {
+  color: rgb(45, 58, 26);
+  text-align: center;
+}
+ul {
+   line-height: 0px;
+}
+html {
+  background-color: yellowgreen;
+  background-image: url(18.jpg);
+}
